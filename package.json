@@ -2,7 +2,9 @@
   "name" : "otto-request",
   "version" : "0.0.0",
   "repository" : "https://github.com/ottojs/otto-request.git",
-  "dependencies" : {},
+  "dependencies" : {
+    "otto-errors" : "0.0.2"
+  },
   "devDependencies" : {
     "jshint"    : "2.5.2",
     "mocha"     : "1.20.1",
