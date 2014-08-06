@@ -2,6 +2,7 @@
   "name" : "otto-request",
   "version" : "0.0.1",
   "repository" : "https://github.com/ottojs/otto-request.git",
+  "main" : "./lib/index.js",
   "dependencies" : {
     "otto-errors" : "0.0.2"
   },
