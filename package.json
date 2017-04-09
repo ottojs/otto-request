@@ -1,6 +1,6 @@
 {
   "name" : "otto-request",
-  "version" : "0.2.0",
+  "version" : "0.4.0",
   "license" : "MIT",
   "repository" : "https://github.com/ottojs/otto-request.git",
   "main" : "./lib/index.js",
